@@ -31,7 +31,7 @@ Website filtering: Blocks inappropriate content.
 Screen time management: Sets usage limits for better time management.
 Built with: JavaScript, Chrome Extension API
 
-###🎨 Foundation Shade Match Finder (In Progress)
+### 🎨 Foundation Shade Match Finder (In Progress)
 💄 An AI-powered web app that helps users find the perfect foundation shade based on their skin tone. Features:
 
 Image-based shade detection: Uses AI to analyze skin tone from uploaded photos.
