@@ -24,11 +24,20 @@ I am a software engineer specializing in **front-end and full-stack development*
 
 ## 🚀 Featured Projects  
 
-### [Otambo-Library](https://github.com/Staicy254/Otambo-Library)  
-📚 **A library management system** built with **React** and **Tailwind CSS**, designed for seamless user interaction.
+### 👨‍👩‍👧‍👦 Parental Control Browser Extension 
+🔒 A Chrome extension that enables parents to monitor and control their children's internet usage. Features:
 
-### [Weather App](https://github.com/Staicy254/Weather-App-test)  
-🌦 A **real-time weather forecasting app** developed using **JavaScript, HTML5, and CSS3**.
+Website filtering: Blocks inappropriate content.
+Screen time management: Sets usage limits for better time management.
+Built with: JavaScript, Chrome Extension API
+
+###🎨 Foundation Shade Match Finder (In Progress)
+💄 An AI-powered web app that helps users find the perfect foundation shade based on their skin tone. Features:
+
+Image-based shade detection: Uses AI to analyze skin tone from uploaded photos.
+Product recommendations: Matches users with the closest foundation shades from various brands.
+Search by brand & shade: Allows users to explore and compare different brands.
+Built with: React, Node.js, MongoDB, Sephora API
 
 ### [Blockchain Voting System](https://github.com/Staicy254/Blockchain-Voting) *(Coming Soon 🚀)*  
 🗳️ A **secure blockchain-based voting system** built with **Solidity and Web3.js**, ensuring transparency and trust.
