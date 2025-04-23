@@ -1,7 +1,7 @@
 # Hi there, I'm Jean Staicy Otambo 👋  
-### 🌟 Software Engineer | Front-End & Blockchain Developer  
+### 🌟 Software Engineer | Front-End Developer  
 
-I am a software engineer specializing in **front-end and full-stack development**, with expertise in **React, Next.js, Web3, and Solidity**. Passionate about **blockchain technology, APIs, and scalable applications**, I love crafting innovative solutions that enhance user experience.
+I am a software engineer specializing in **front-end development**, with expertise in **React, Next.js, HTML5, and JavaScript**. Passionate about ** scalable applications**, I love crafting innovative solutions that enhance user experience.
 
 ---
 
@@ -11,8 +11,6 @@ I am a software engineer specializing in **front-end and full-stack development*
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=ethereum&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
@@ -37,10 +35,7 @@ Built with: JavaScript, Chrome Extension API
 Image-based shade detection: Uses AI to analyze skin tone from uploaded photos.
 Product recommendations: Matches users with the closest foundation shades from various brands.
 Search by brand & shade: Allows users to explore and compare different brands.
-Built with: React, Node.js, MongoDB, Sephora API
-
-### [Blockchain Voting System](https://github.com/Staicy254/Blockchain-Voting) *(Coming Soon 🚀)*  
-🗳️ A **secure blockchain-based voting system** built with **Solidity and Web3.js**, ensuring transparency and trust.
+Built with: React, Node.js, MongoDB, Sephora API.
 
 ---
 
@@ -74,20 +69,19 @@ Built with: React, Node.js, MongoDB, Sephora API
 ---
 
 ## 🌱 I’m currently learning  
-- **Cloud Architecture with AWS** ☁️  
-- **Advanced Solidity & Web3 Development** 🛠️  
-- **Building Scalable APIs** 🚀  
+- **Advanced Frontend Development** ☁️  
+- **Building Scalable Applications** 🚀  
 
 ---
 
 ## 🏆 Achievements  
 🏅 *Employee of the Month* @ Capabuil LTD for the successful launch of an LMS system.  
-🏅 Completed **Blockchain & Web3 training** with **Cyfrin Updraft Certification**.  
+🏅 Completed **ALX Software Engineering training** with **ALX Certification**.  
 🏅 Attended **Build Americas Conference** for AI & Apps – Snowflake.  
 
 ---
 
 ## 💬 Ask me about  
 - Front-End Development  
-- Smart Contracts & Blockchain  
+- AI Intergrations  
 - API Development & Integrations  
