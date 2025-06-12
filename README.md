@@ -1,7 +1,7 @@
 # Hi there, I'm Jean Staicy Otambo 👋  
 ### 🌟 Software Engineer | Front-End Developer  
 
-I am a software engineer specializing in **front-end development**, with expertise in **React, Next.js, HTML5, and JavaScript**. Passionate about ** scalable applications**, I love crafting innovative solutions that enhance user experience.
+I am a software engineer specializing in **front-end development**, with expertise in **React, Next.js, HTML5, and JavaScript**. Passionate about scalable applications, I love crafting innovative solutions that enhance user experience.
 
 ---
 
