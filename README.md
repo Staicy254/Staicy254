@@ -41,17 +41,35 @@ Built with: React, Node.js, MongoDB, Sephora API.
 
 ## 💼 Work Experience  
 
-- **Front-End Software Engineer** @ *ProsperMinds Limited* (Mar 2024 – Feb 2025)  
-  - Developed an **LMS platform** with responsive UI and enhanced **accessibility**.  
+- **Independent Contractor** @ *SALIX DATA* (May 2025 – Jul 2025)  
+  - Delivered long-term software projects for international clients.  
+  - Contributed to **end-to-end web application development** using modern frameworks.  
+  - Collaborated with **distributed Agile teams**, ensuring timely delivery.  
 
-- **Full-Stack Developer Intern** @ *Zendawa Africa* (Apr 2024 – Jul 2024)  
-  - Improved **bounce rate by 15%** using **Google Analytics** insights.  
+- **Software Engineer / Tech Lead** @ *Capabuil Limited* (Mar 2024 – Mar 2025)  
+  - Led a **distributed development team**, managing sprints and backlog.  
+  - Enforced **code review processes** and accessibility standards.  
+  - Presented **performance dashboards** to leadership and optimized workflows.  
 
-- **Freelance Web Developer** @ *Upwork* (Jan 2023 – Jan 2024)  
-  - Built and deployed **custom websites** for various clients.  
+- **Full Stack Developer** @ *Invisible Technologies* (May 2024 – Oct 2024)  
+  - Built and maintained **scalable applications** with React, Node.js, and PostgreSQL.  
+  - Enhanced **internal tools** and **client-facing platforms** for usability and performance.  
+  - Contributed to **process automation**, QA, and API integrations.  
 
-- **Web Developer Intern** @ *Oasis Infobyte* (Feb 2024 – Mar 2024)  
-  - Implemented **SEO strategies**, boosting website visibility **by 20%**.  
+- **Frontend Software Engineer** @ *Zendawa Africa* (Apr 2024 – Jul 2024)  
+  - Developed **custom WordPress/Laravel modules** for clients.  
+  - Improved **Core Web Vitals** and ensured **WCAG accessibility compliance**.  
+  - Integrated analytics to support data-driven decision-making.  
+
+- **Junior Developer** @ *Oasis Infobyte* (Jun 2023 – Dec 2023)  
+  - Supported **frontend & backend development** and server management with Docker.  
+  - Collaborated on Agile projects, testing, and deployment tasks.  
+
+- **Junior Developer** @ *Pivot Networks* (Jan 2022 – Dec 2023)  
+  - Assisted in building and maintaining **web applications** with HTML, CSS, JS, and MySQL.  
+  - Provided **bug fixes, testing, and support** for internal and client systems.  
+  - Learned **Git version control** and Agile collaboration best practices.  
+
 
 ---
 
