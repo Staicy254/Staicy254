@@ -74,8 +74,8 @@ Built with: React, Node.js, Next.js.
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Staicy254&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Staicy254&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Staicy254&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Staicy254&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
