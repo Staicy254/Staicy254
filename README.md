@@ -1,7 +1,7 @@
 # Hi there, I'm Jean Staicy Otambo 👋  
-### 🌟 Software Engineer | Front-End Engineer  
+### Front-End Engineer | UI/UX 
 
-I am a software engineer specializing in **front-end development**, with expertise in **React, Next.js, HTML5, and JavaScript**. Passionate about scalable applications, I love crafting innovative solutions that enhance user experience.
+I am a software engineer specializing in **front-end development**, with expertise in **React, Next.js, GraphQL, and Supabase**. Passionate about scalable applications, I love crafting innovative solutions that enhance user experience.
 
 ---
 
@@ -13,8 +13,8 @@ I am a software engineer specializing in **front-end development**, with experti
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white&style=flat)
 
@@ -22,20 +22,20 @@ I am a software engineer specializing in **front-end development**, with experti
 
 ## 🚀 Featured Projects  
 
-### 👨‍👩‍👧‍👦 Parental Control Browser Extension 
-🔒 A Chrome extension that enables parents to monitor and control their children's internet usage. Features:
+### Tech Inajenga
+A website that will allow freelance developers to find clients faster. Features:
 
-Website filtering: Blocks inappropriate content.
-Screen time management: Sets usage limits for better time management.
-Built with: JavaScript, Chrome Extension API
+Business filtering and startups finder - finds businesses and startups in need of a website
+Provides contact information of businesses and is able to monitor communication.
+Sends out alerts of new businesses and automated cold emails.
 
-### 🎨 Foundation Shade Match Finder (In Progress)
+### Foundation Shade Match Finder (In Progress)
 💄 An AI-powered web app that helps users find the perfect foundation shade based on their skin tone. Features:
 
 Image-based shade detection: Uses AI to analyze skin tone from uploaded photos.
 Product recommendations: Matches users with the closest foundation shades from various brands.
 Search by brand & shade: Allows users to explore and compare different brands.
-Built with: React, Node.js, MongoDB, Sephora API.
+Built with: React, Node.js, Next.js.
 
 ---
 
@@ -46,7 +46,7 @@ Built with: React, Node.js, MongoDB, Sephora API.
   - Contributed to **end-to-end web application development** using modern frameworks.  
   - Collaborated with **distributed Agile teams**, ensuring timely delivery.  
 
-- **Software Engineer / Tech Lead** @ *Capabuil Limited* (Mar 2024 – Mar 2025)  
+- **Software Engineer / Tech Lead** @ *ProsperMinds Ltd* (Mar 2024 – Mar 2025)  
   - Led a **distributed development team**, managing sprints and backlog.  
   - Enforced **code review processes** and accessibility standards.  
   - Presented **performance dashboards** to leadership and optimized workflows.  
@@ -56,16 +56,16 @@ Built with: React, Node.js, MongoDB, Sephora API.
   - Enhanced **internal tools** and **client-facing platforms** for usability and performance.  
   - Contributed to **process automation**, QA, and API integrations.  
 
-- **Frontend Software Engineer** @ *Zendawa Africa* (Apr 2024 – Jul 2024)  
+- **Frontend Software Developer** @ *Zendawa Africa* (Apr 2024 – Jul 2024)  
   - Developed **custom WordPress/Laravel modules** for clients.  
   - Improved **Core Web Vitals** and ensured **WCAG accessibility compliance**.  
   - Integrated analytics to support data-driven decision-making.  
 
-- **Junior Developer** @ *Oasis Infobyte* (Jun 2023 – Dec 2023)  
+- **Frontend Developer Intern** @ *Oasis Infobyte* (Feb 2024 – Feb 2024)  
   - Supported **frontend & backend development** and server management with Docker.  
   - Collaborated on Agile projects, testing, and deployment tasks.  
 
-- **Junior Developer** @ *Pivot Networks* (Jan 2022 – Dec 2023)  
+- **Frontend Developer Intern** @ *Pivot Networks* (July 2023 – Dec 2023)  
   - Assisted in building and maintaining **web applications** with HTML, CSS, JS, and MySQL.  
   - Provided **bug fixes, testing, and support** for internal and client systems.  
   - Learned **Git version control** and Agile collaboration best practices.  
@@ -80,26 +80,28 @@ Built with: React, Node.js, MongoDB, Sephora API.
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/auma-otambo-6342952a7/)  
-- 🖥️ [Portfolio](https://staicy254.github.io/Otambo-Library/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jean-otambo-6342952a7/)  
+- 🖥️ [Portfolio](https://engineer-staicy.vercel.app/)  
 - 📧 **Email:** jeanstaicy21@gmail.com  
 
 ---
 
 ## 🌱 I’m currently learning  
 - **Advanced Frontend Development** ☁️  
-- **Building Scalable Applications** 🚀  
+- **Building Scalable Applications** 🚀
+- **AI prompting by OpenAI** 🚀
 
 ---
 
 ## 🏆 Achievements  
-🏅 *Employee of the Month* @ Capabuil LTD for the successful launch of an LMS system.  
+🏅 *Employee of the Month* @ ProsperMinds Ltd. for the successful launch of an LMS system.  
 🏅 Completed **ALX Software Engineering training** with **ALX Certification**.  
 🏅 Attended **Build Americas Conference** for AI & Apps – Snowflake.  
 
 ---
 
 ## 💬 Ask me about  
-- Front-End Development  
-- AI Intergrations  
+- Front-End Development
+- UI/UX Designs 
+- AI Integrations  
 - API Development & Integrations  
