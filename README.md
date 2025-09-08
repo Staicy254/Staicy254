@@ -73,13 +73,6 @@ Built with: React, Node.js, Next.js.
 
 ---
 
-## 📊 GitHub Activity & Trophies  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Staicy254&theme=tokyo-night)  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Staicy254&theme=tokyonight&margin-w=15&margin-h=15)
-
----
-
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jean-otambo-6342952a7/)  
 - 🖥️ [Portfolio](https://engineer-staicy.vercel.app/)  
